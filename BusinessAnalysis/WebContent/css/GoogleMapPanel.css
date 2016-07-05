@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+#GoogleMapPanel{
+	margin:1px;padding:1px;
+	height:99.9%;
+	width:99.9%;
+}
+#GoogleMap{
+	margin:1px;padding:1px;
+	height:99.5%;
+	width:99.7%;
+}

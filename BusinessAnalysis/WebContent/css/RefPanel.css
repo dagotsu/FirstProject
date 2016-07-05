@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+#RefPanel{
+	margin:5px;
+}
+#RefGrid{
+	margin:0; padding:0;
+	border: 1px solid black;
+	height: 98%;
+}
+#RefGrid .field-category{
+	width:200px;
+}
